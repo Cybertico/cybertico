@@ -128,7 +128,7 @@ section .section-title {
     border-radius: 50%;
 }
 
-.card-body{
+.card{
     min-width: 2em;
     min-height: 2em;
 }
